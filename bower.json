@@ -11,13 +11,13 @@
     "polymer"
   ],
   "main": "filter-behavior.html",
-  "homepage": "https://github.com/DigElements/filter-behavior/",
+  "homepage": "https://github.com/usc-isi-digelements/filter-behavior/",
   "ignore": [
     "/.*",
     "/test/"
   ],
   "dependencies": {
-    "lodash-import": "DigElements/lodash-import#~1.0.1"
+    "lodash-import": "usc-isi-digelements/lodash-import#~1.0.1"
   },
   "devDependencies": {
     "polymer": "Polymer/polymer#^1.7.0",
